@@ -16,21 +16,18 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Javascript and laravel
-##### Skills
+#### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode,flask,mysql" height="50" />
+</p>
 
-
-##### My Discord
+#### My Discord
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
-##### Contact Me
-![https://www.facebook.com/share/1CtFxMvzag/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.linkedin.com/in/Muhammad Yusuf Andriyanto/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://instagram.com/m_ysf_a](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+#### Contact Me
+![https://www.facebook.com/share/1CtFxMvzag/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.linkedin.com/in/m-yusuf-andriyanto-a23036427/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://instagram.com/m_ysf_a](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 <div data-importer="stats" align="left">
