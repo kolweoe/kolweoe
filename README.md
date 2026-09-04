@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Javascript and laravel
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,)](https://skillicons.dev)
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode,flask,mysql" height="50" />
 </p>
