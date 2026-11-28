@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/github-header-banner.png" alt="Yusuf Andri - GitHub profile banner" width="100%" />
+<img src="img/github-header-banner.jpg" alt="Yusuf Andri - GitHub profile banner" width="100%" />
 
 # Hi, I'm Yusuf Andri 👋
 
