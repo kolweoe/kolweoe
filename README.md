@@ -2,61 +2,35 @@
 
 <img src="img/github-header-banner.png" alt="Yusuf Andri - GitHub profile banner" width="100%" />
 
-# HELLO WORLD, I'M YUSUF ANDRI 👋
+# Hi, I'm Yusuf Andri 👋
 
-### <img src="https://img.shields.io/badge/PLAYER_PROFILE-PIXEL_DEVELOPER-1D4ED8?style=for-the-badge&labelColor=101827" alt="Player profile: Pixel developer" />
+**Aspiring Developer | Learning, Building, and Growing**
 
-**Developer in progress · Learning, building, and improving**
-
-<img src="https://img.shields.io/badge/QUEST-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Currently learning JavaScript" />
-<img src="https://img.shields.io/badge/QUEST-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Currently learning Laravel" />
+<p>
+  <img src="https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Learning JavaScript" />
+  <img src="https://img.shields.io/badge/Learning-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Learning Laravel" />
+</p>
 
 </div>
 
 ---
 
-## ▸ PLAYER PROFILE
+## About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **JavaScript** and **Laravel**.
+- 🌱 I'm currently learning **JavaScript** and **Laravel**.
 - 💡 I enjoy exploring technology and improving my development skills.
-- 🚀 This profile is where I share my learning journey and projects.
+- 🎨 Outside of coding, I enjoy **pixel art** and retro-inspired visuals.
+- 🚀 I use this profile to document my learning journey and share projects.
 
-    </td>
-    <td width="40%" valign="top">
-
-### 🎯 Current Quest
-
-**Main objectives**
-
-- Learn and build
-- Explore new technologies
-- Improve through projects
-
-<sub>STATUS: IN PROGRESS</sub>
-
-    </td>
-  </tr>
-</table>
-
----
-
-## ▸ INVENTORY — TECH STACK & TOOLS
+## Skills & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,c,cpp,py,vscode,github,git" height="52" alt="HTML, C, C++, Python, VS Code, GitHub, and Git" />
+<img src="https://skillicons.dev/icons?i=html,c,cpp,py,vscode,github,git" height="48" alt="HTML, C, C++, Python, VS Code, GitHub, and Git" />
 
 </div>
 
----
-
-## ▸ PLAYER STATISTICS
+## GitHub Statistics
 
 <div align="center">
 
@@ -65,13 +39,9 @@
 
 </div>
 
----
-
-## ▸ ARCADE — PLAY GAMES WITH ME
+## Contribution Activity
 
 <div align="center">
-
-<p><sub>INSERT COIN · EXPLORE MY CONTRIBUTION GALAXY</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kolweoe/kolweoe/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -81,22 +51,20 @@
 
 </div>
 
----
-
-## ▸ CONNECT — FIND ME ONLINE
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.facebook.com/share/1KnMQBUAna/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-yusuf-andriyanto-506452384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/m_ysf_a">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </div>
 
-<!-- FUTURE MASCOT SLOT: Add the original Kolweoe pixel mascot here when the character is ready. -->
+<!-- Future addition: original pixel-art mascot. -->
