@@ -24,13 +24,13 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,php,laravel,flask,mysql,git,github,vscode" height="50" alt="HTML, CSS, JavaScript, Python, C++, PHP, Laravel, Flask, MySQL, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,c,cpp,py,vscode,github,git" height="50" alt="HTML, C, C++, Python, VS Code, GitHub, and Git" />
 </p>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kolweoe/kolweoe/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="165" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/kolweoe/kolweoe/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="165" alt="GitHub statistics" />
   <img src="https://raw.githubusercontent.com/kolweoe/kolweoe/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="165" alt="Most used programming languages" />
 </div>
 
@@ -47,17 +47,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1CtFxMvzag/">
+  <a href="https://www.facebook.com/share/1KnMQBUAna/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/m-yusuf-andriyanto-a23036427/">
+  <a href="https://www.linkedin.com/in/muhammad-yusuf-andriyanto-506452384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/m_ysf_a">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</div>
